@@ -1,0 +1,15 @@
+Y:\university\projects\C#\RiderProjects\CPG35-Exeptis_Game\CPG35-Exeptis_Game\bin\Debug\net7.0\CPG35-Exeptis_Game.exe
+Y:\university\projects\C#\RiderProjects\CPG35-Exeptis_Game\CPG35-Exeptis_Game\bin\Debug\net7.0\CPG35-Exeptis_Game.deps.json
+Y:\university\projects\C#\RiderProjects\CPG35-Exeptis_Game\CPG35-Exeptis_Game\bin\Debug\net7.0\CPG35-Exeptis_Game.runtimeconfig.json
+Y:\university\projects\C#\RiderProjects\CPG35-Exeptis_Game\CPG35-Exeptis_Game\bin\Debug\net7.0\CPG35-Exeptis_Game.dll
+Y:\university\projects\C#\RiderProjects\CPG35-Exeptis_Game\CPG35-Exeptis_Game\bin\Debug\net7.0\CPG35-Exeptis_Game.pdb
+Y:\university\projects\C#\RiderProjects\CPG35-Exeptis_Game\CPG35-Exeptis_Game\obj\Debug\net7.0\CPG35-Exeptis_Game.csproj.AssemblyReference.cache
+Y:\university\projects\C#\RiderProjects\CPG35-Exeptis_Game\CPG35-Exeptis_Game\obj\Debug\net7.0\CPG35-Exeptis_Game.GeneratedMSBuildEditorConfig.editorconfig
+Y:\university\projects\C#\RiderProjects\CPG35-Exeptis_Game\CPG35-Exeptis_Game\obj\Debug\net7.0\CPG35-Exeptis_Game.AssemblyInfoInputs.cache
+Y:\university\projects\C#\RiderProjects\CPG35-Exeptis_Game\CPG35-Exeptis_Game\obj\Debug\net7.0\CPG35-Exeptis_Game.AssemblyInfo.cs
+Y:\university\projects\C#\RiderProjects\CPG35-Exeptis_Game\CPG35-Exeptis_Game\obj\Debug\net7.0\CPG35-Exeptis_Game.csproj.CoreCompileInputs.cache
+Y:\university\projects\C#\RiderProjects\CPG35-Exeptis_Game\CPG35-Exeptis_Game\obj\Debug\net7.0\CPG35-Exeptis_Game.dll
+Y:\university\projects\C#\RiderProjects\CPG35-Exeptis_Game\CPG35-Exeptis_Game\obj\Debug\net7.0\refint\CPG35-Exeptis_Game.dll
+Y:\university\projects\C#\RiderProjects\CPG35-Exeptis_Game\CPG35-Exeptis_Game\obj\Debug\net7.0\CPG35-Exeptis_Game.pdb
+Y:\university\projects\C#\RiderProjects\CPG35-Exeptis_Game\CPG35-Exeptis_Game\obj\Debug\net7.0\CPG35-Exeptis_Game.genruntimeconfig.cache
+Y:\university\projects\C#\RiderProjects\CPG35-Exeptis_Game\CPG35-Exeptis_Game\obj\Debug\net7.0\ref\CPG35-Exeptis_Game.dll

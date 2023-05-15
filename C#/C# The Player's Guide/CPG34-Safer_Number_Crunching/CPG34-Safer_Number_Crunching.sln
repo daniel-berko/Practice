@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CPG34-Safer_Number_Crunching", "CPG34-Safer_Number_Crunching\CPG34-Safer_Number_Crunching.csproj", "{191301FF-2525-412E-8F36-F978629D3A59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{191301FF-2525-412E-8F36-F978629D3A59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{191301FF-2525-412E-8F36-F978629D3A59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{191301FF-2525-412E-8F36-F978629D3A59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{191301FF-2525-412E-8F36-F978629D3A59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

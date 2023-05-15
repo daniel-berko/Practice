@@ -1,0 +1,15 @@
+Y:\university\projects\C#\RiderProjects\CPG42-The_Three_Lenses\CPG42-The_Three_Lenses\bin\Debug\net7.0\CPG42-The_Three_Lenses.exe
+Y:\university\projects\C#\RiderProjects\CPG42-The_Three_Lenses\CPG42-The_Three_Lenses\bin\Debug\net7.0\CPG42-The_Three_Lenses.deps.json
+Y:\university\projects\C#\RiderProjects\CPG42-The_Three_Lenses\CPG42-The_Three_Lenses\bin\Debug\net7.0\CPG42-The_Three_Lenses.runtimeconfig.json
+Y:\university\projects\C#\RiderProjects\CPG42-The_Three_Lenses\CPG42-The_Three_Lenses\bin\Debug\net7.0\CPG42-The_Three_Lenses.dll
+Y:\university\projects\C#\RiderProjects\CPG42-The_Three_Lenses\CPG42-The_Three_Lenses\bin\Debug\net7.0\CPG42-The_Three_Lenses.pdb
+Y:\university\projects\C#\RiderProjects\CPG42-The_Three_Lenses\CPG42-The_Three_Lenses\obj\Debug\net7.0\CPG42-The_Three_Lenses.csproj.AssemblyReference.cache
+Y:\university\projects\C#\RiderProjects\CPG42-The_Three_Lenses\CPG42-The_Three_Lenses\obj\Debug\net7.0\CPG42-The_Three_Lenses.GeneratedMSBuildEditorConfig.editorconfig
+Y:\university\projects\C#\RiderProjects\CPG42-The_Three_Lenses\CPG42-The_Three_Lenses\obj\Debug\net7.0\CPG42-The_Three_Lenses.AssemblyInfoInputs.cache
+Y:\university\projects\C#\RiderProjects\CPG42-The_Three_Lenses\CPG42-The_Three_Lenses\obj\Debug\net7.0\CPG42-The_Three_Lenses.AssemblyInfo.cs
+Y:\university\projects\C#\RiderProjects\CPG42-The_Three_Lenses\CPG42-The_Three_Lenses\obj\Debug\net7.0\CPG42-The_Three_Lenses.csproj.CoreCompileInputs.cache
+Y:\university\projects\C#\RiderProjects\CPG42-The_Three_Lenses\CPG42-The_Three_Lenses\obj\Debug\net7.0\CPG42-The_Three_Lenses.dll
+Y:\university\projects\C#\RiderProjects\CPG42-The_Three_Lenses\CPG42-The_Three_Lenses\obj\Debug\net7.0\refint\CPG42-The_Three_Lenses.dll
+Y:\university\projects\C#\RiderProjects\CPG42-The_Three_Lenses\CPG42-The_Three_Lenses\obj\Debug\net7.0\CPG42-The_Three_Lenses.pdb
+Y:\university\projects\C#\RiderProjects\CPG42-The_Three_Lenses\CPG42-The_Three_Lenses\obj\Debug\net7.0\CPG42-The_Three_Lenses.genruntimeconfig.cache
+Y:\university\projects\C#\RiderProjects\CPG42-The_Three_Lenses\CPG42-The_Three_Lenses\obj\Debug\net7.0\ref\CPG42-The_Three_Lenses.dll

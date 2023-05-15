@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CPG26-The_Old_Robot/1.0.0": {
+        "runtime": {
+          "CPG26-The_Old_Robot.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CPG26-The_Old_Robot/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

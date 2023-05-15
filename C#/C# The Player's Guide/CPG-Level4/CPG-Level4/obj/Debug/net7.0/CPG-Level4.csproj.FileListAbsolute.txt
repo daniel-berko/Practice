@@ -1,0 +1,15 @@
+C:\Users\Munszu\RiderProjects\CPG-Level4\CPG-Level4\bin\Debug\net7.0\CPG-Level4.exe
+C:\Users\Munszu\RiderProjects\CPG-Level4\CPG-Level4\bin\Debug\net7.0\CPG-Level4.deps.json
+C:\Users\Munszu\RiderProjects\CPG-Level4\CPG-Level4\bin\Debug\net7.0\CPG-Level4.runtimeconfig.json
+C:\Users\Munszu\RiderProjects\CPG-Level4\CPG-Level4\bin\Debug\net7.0\CPG-Level4.dll
+C:\Users\Munszu\RiderProjects\CPG-Level4\CPG-Level4\bin\Debug\net7.0\CPG-Level4.pdb
+C:\Users\Munszu\RiderProjects\CPG-Level4\CPG-Level4\obj\Debug\net7.0\CPG-Level4.csproj.AssemblyReference.cache
+C:\Users\Munszu\RiderProjects\CPG-Level4\CPG-Level4\obj\Debug\net7.0\CPG-Level4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Munszu\RiderProjects\CPG-Level4\CPG-Level4\obj\Debug\net7.0\CPG-Level4.AssemblyInfoInputs.cache
+C:\Users\Munszu\RiderProjects\CPG-Level4\CPG-Level4\obj\Debug\net7.0\CPG-Level4.AssemblyInfo.cs
+C:\Users\Munszu\RiderProjects\CPG-Level4\CPG-Level4\obj\Debug\net7.0\CPG-Level4.csproj.CoreCompileInputs.cache
+C:\Users\Munszu\RiderProjects\CPG-Level4\CPG-Level4\obj\Debug\net7.0\CPG-Level4.dll
+C:\Users\Munszu\RiderProjects\CPG-Level4\CPG-Level4\obj\Debug\net7.0\refint\CPG-Level4.dll
+C:\Users\Munszu\RiderProjects\CPG-Level4\CPG-Level4\obj\Debug\net7.0\CPG-Level4.pdb
+C:\Users\Munszu\RiderProjects\CPG-Level4\CPG-Level4\obj\Debug\net7.0\CPG-Level4.genruntimeconfig.cache
+C:\Users\Munszu\RiderProjects\CPG-Level4\CPG-Level4\obj\Debug\net7.0\ref\CPG-Level4.dll

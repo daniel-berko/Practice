@@ -1,0 +1,15 @@
+Y:\university\projects\C#\RiderProjects\CPG39-The_Long_Game\CPG39-The_Long_Game\bin\Debug\net7.0\CPG39-The_Long_Game.exe
+Y:\university\projects\C#\RiderProjects\CPG39-The_Long_Game\CPG39-The_Long_Game\bin\Debug\net7.0\CPG39-The_Long_Game.deps.json
+Y:\university\projects\C#\RiderProjects\CPG39-The_Long_Game\CPG39-The_Long_Game\bin\Debug\net7.0\CPG39-The_Long_Game.runtimeconfig.json
+Y:\university\projects\C#\RiderProjects\CPG39-The_Long_Game\CPG39-The_Long_Game\bin\Debug\net7.0\CPG39-The_Long_Game.dll
+Y:\university\projects\C#\RiderProjects\CPG39-The_Long_Game\CPG39-The_Long_Game\bin\Debug\net7.0\CPG39-The_Long_Game.pdb
+Y:\university\projects\C#\RiderProjects\CPG39-The_Long_Game\CPG39-The_Long_Game\obj\Debug\net7.0\CPG39-The_Long_Game.csproj.AssemblyReference.cache
+Y:\university\projects\C#\RiderProjects\CPG39-The_Long_Game\CPG39-The_Long_Game\obj\Debug\net7.0\CPG39-The_Long_Game.GeneratedMSBuildEditorConfig.editorconfig
+Y:\university\projects\C#\RiderProjects\CPG39-The_Long_Game\CPG39-The_Long_Game\obj\Debug\net7.0\CPG39-The_Long_Game.AssemblyInfoInputs.cache
+Y:\university\projects\C#\RiderProjects\CPG39-The_Long_Game\CPG39-The_Long_Game\obj\Debug\net7.0\CPG39-The_Long_Game.AssemblyInfo.cs
+Y:\university\projects\C#\RiderProjects\CPG39-The_Long_Game\CPG39-The_Long_Game\obj\Debug\net7.0\CPG39-The_Long_Game.csproj.CoreCompileInputs.cache
+Y:\university\projects\C#\RiderProjects\CPG39-The_Long_Game\CPG39-The_Long_Game\obj\Debug\net7.0\CPG39-The_Long_Game.dll
+Y:\university\projects\C#\RiderProjects\CPG39-The_Long_Game\CPG39-The_Long_Game\obj\Debug\net7.0\refint\CPG39-The_Long_Game.dll
+Y:\university\projects\C#\RiderProjects\CPG39-The_Long_Game\CPG39-The_Long_Game\obj\Debug\net7.0\CPG39-The_Long_Game.pdb
+Y:\university\projects\C#\RiderProjects\CPG39-The_Long_Game\CPG39-The_Long_Game\obj\Debug\net7.0\CPG39-The_Long_Game.genruntimeconfig.cache
+Y:\university\projects\C#\RiderProjects\CPG39-The_Long_Game\CPG39-The_Long_Game\obj\Debug\net7.0\ref\CPG39-The_Long_Game.dll

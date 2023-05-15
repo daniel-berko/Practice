@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CPG-Level8/1.0.0": {
+        "runtime": {
+          "CPG-Level8.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CPG-Level8/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

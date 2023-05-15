@@ -1,0 +1,15 @@
+Y:\university\projects\C#\RiderProjects\CPG40-The_Potion_Masters_of_Pattren\CPG40-The_Potion_Masters_of_Pattren\bin\Debug\net7.0\CPG40-The_Potion_Masters_of_Pattren.exe
+Y:\university\projects\C#\RiderProjects\CPG40-The_Potion_Masters_of_Pattren\CPG40-The_Potion_Masters_of_Pattren\bin\Debug\net7.0\CPG40-The_Potion_Masters_of_Pattren.deps.json
+Y:\university\projects\C#\RiderProjects\CPG40-The_Potion_Masters_of_Pattren\CPG40-The_Potion_Masters_of_Pattren\bin\Debug\net7.0\CPG40-The_Potion_Masters_of_Pattren.runtimeconfig.json
+Y:\university\projects\C#\RiderProjects\CPG40-The_Potion_Masters_of_Pattren\CPG40-The_Potion_Masters_of_Pattren\bin\Debug\net7.0\CPG40-The_Potion_Masters_of_Pattren.dll
+Y:\university\projects\C#\RiderProjects\CPG40-The_Potion_Masters_of_Pattren\CPG40-The_Potion_Masters_of_Pattren\bin\Debug\net7.0\CPG40-The_Potion_Masters_of_Pattren.pdb
+Y:\university\projects\C#\RiderProjects\CPG40-The_Potion_Masters_of_Pattren\CPG40-The_Potion_Masters_of_Pattren\obj\Debug\net7.0\CPG40-The_Potion_Masters_of_Pattren.csproj.AssemblyReference.cache
+Y:\university\projects\C#\RiderProjects\CPG40-The_Potion_Masters_of_Pattren\CPG40-The_Potion_Masters_of_Pattren\obj\Debug\net7.0\CPG40-The_Potion_Masters_of_Pattren.GeneratedMSBuildEditorConfig.editorconfig
+Y:\university\projects\C#\RiderProjects\CPG40-The_Potion_Masters_of_Pattren\CPG40-The_Potion_Masters_of_Pattren\obj\Debug\net7.0\CPG40-The_Potion_Masters_of_Pattren.AssemblyInfoInputs.cache
+Y:\university\projects\C#\RiderProjects\CPG40-The_Potion_Masters_of_Pattren\CPG40-The_Potion_Masters_of_Pattren\obj\Debug\net7.0\CPG40-The_Potion_Masters_of_Pattren.AssemblyInfo.cs
+Y:\university\projects\C#\RiderProjects\CPG40-The_Potion_Masters_of_Pattren\CPG40-The_Potion_Masters_of_Pattren\obj\Debug\net7.0\CPG40-The_Potion_Masters_of_Pattren.csproj.CoreCompileInputs.cache
+Y:\university\projects\C#\RiderProjects\CPG40-The_Potion_Masters_of_Pattren\CPG40-The_Potion_Masters_of_Pattren\obj\Debug\net7.0\CPG40-The_Potion_Masters_of_Pattren.dll
+Y:\university\projects\C#\RiderProjects\CPG40-The_Potion_Masters_of_Pattren\CPG40-The_Potion_Masters_of_Pattren\obj\Debug\net7.0\refint\CPG40-The_Potion_Masters_of_Pattren.dll
+Y:\university\projects\C#\RiderProjects\CPG40-The_Potion_Masters_of_Pattren\CPG40-The_Potion_Masters_of_Pattren\obj\Debug\net7.0\CPG40-The_Potion_Masters_of_Pattren.pdb
+Y:\university\projects\C#\RiderProjects\CPG40-The_Potion_Masters_of_Pattren\CPG40-The_Potion_Masters_of_Pattren\obj\Debug\net7.0\CPG40-The_Potion_Masters_of_Pattren.genruntimeconfig.cache
+Y:\university\projects\C#\RiderProjects\CPG40-The_Potion_Masters_of_Pattren\CPG40-The_Potion_Masters_of_Pattren\obj\Debug\net7.0\ref\CPG40-The_Potion_Masters_of_Pattren.dll

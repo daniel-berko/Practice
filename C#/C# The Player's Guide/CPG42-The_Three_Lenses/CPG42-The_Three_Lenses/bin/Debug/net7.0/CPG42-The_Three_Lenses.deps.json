@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CPG42-The_Three_Lenses/1.0.0": {
+        "runtime": {
+          "CPG42-The_Three_Lenses.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CPG42-The_Three_Lenses/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

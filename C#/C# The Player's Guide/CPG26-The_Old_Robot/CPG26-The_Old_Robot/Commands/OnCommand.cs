@@ -1,0 +1,9 @@
+﻿namespace CPG26_The_Old_Robot.Commands;
+
+public class OnCommand : RobotCommand
+{
+    public override void Run(Robot robot)
+    {
+        robot.IsPowered = true;
+    }
+}

@@ -1,0 +1,15 @@
+Y:\university\projects\C#\RiderProjects\CPG43-The_Repeating_Stream\CPG43-The_Repeating_Stream\bin\Debug\net7.0\CPG43-The_Repeating_Stream.exe
+Y:\university\projects\C#\RiderProjects\CPG43-The_Repeating_Stream\CPG43-The_Repeating_Stream\bin\Debug\net7.0\CPG43-The_Repeating_Stream.deps.json
+Y:\university\projects\C#\RiderProjects\CPG43-The_Repeating_Stream\CPG43-The_Repeating_Stream\bin\Debug\net7.0\CPG43-The_Repeating_Stream.runtimeconfig.json
+Y:\university\projects\C#\RiderProjects\CPG43-The_Repeating_Stream\CPG43-The_Repeating_Stream\bin\Debug\net7.0\CPG43-The_Repeating_Stream.dll
+Y:\university\projects\C#\RiderProjects\CPG43-The_Repeating_Stream\CPG43-The_Repeating_Stream\bin\Debug\net7.0\CPG43-The_Repeating_Stream.pdb
+Y:\university\projects\C#\RiderProjects\CPG43-The_Repeating_Stream\CPG43-The_Repeating_Stream\obj\Debug\net7.0\CPG43-The_Repeating_Stream.csproj.AssemblyReference.cache
+Y:\university\projects\C#\RiderProjects\CPG43-The_Repeating_Stream\CPG43-The_Repeating_Stream\obj\Debug\net7.0\CPG43-The_Repeating_Stream.GeneratedMSBuildEditorConfig.editorconfig
+Y:\university\projects\C#\RiderProjects\CPG43-The_Repeating_Stream\CPG43-The_Repeating_Stream\obj\Debug\net7.0\CPG43-The_Repeating_Stream.AssemblyInfoInputs.cache
+Y:\university\projects\C#\RiderProjects\CPG43-The_Repeating_Stream\CPG43-The_Repeating_Stream\obj\Debug\net7.0\CPG43-The_Repeating_Stream.AssemblyInfo.cs
+Y:\university\projects\C#\RiderProjects\CPG43-The_Repeating_Stream\CPG43-The_Repeating_Stream\obj\Debug\net7.0\CPG43-The_Repeating_Stream.csproj.CoreCompileInputs.cache
+Y:\university\projects\C#\RiderProjects\CPG43-The_Repeating_Stream\CPG43-The_Repeating_Stream\obj\Debug\net7.0\CPG43-The_Repeating_Stream.dll
+Y:\university\projects\C#\RiderProjects\CPG43-The_Repeating_Stream\CPG43-The_Repeating_Stream\obj\Debug\net7.0\refint\CPG43-The_Repeating_Stream.dll
+Y:\university\projects\C#\RiderProjects\CPG43-The_Repeating_Stream\CPG43-The_Repeating_Stream\obj\Debug\net7.0\CPG43-The_Repeating_Stream.pdb
+Y:\university\projects\C#\RiderProjects\CPG43-The_Repeating_Stream\CPG43-The_Repeating_Stream\obj\Debug\net7.0\CPG43-The_Repeating_Stream.genruntimeconfig.cache
+Y:\university\projects\C#\RiderProjects\CPG43-The_Repeating_Stream\CPG43-The_Repeating_Stream\obj\Debug\net7.0\ref\CPG43-The_Repeating_Stream.dll

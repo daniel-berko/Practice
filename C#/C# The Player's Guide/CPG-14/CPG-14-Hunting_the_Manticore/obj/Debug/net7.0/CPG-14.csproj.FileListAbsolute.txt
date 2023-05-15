@@ -1,0 +1,15 @@
+C:\Users\Munszu\RiderProjects\CPG-14\CPG-14\bin\Debug\net7.0\CPG-14.exe
+C:\Users\Munszu\RiderProjects\CPG-14\CPG-14\bin\Debug\net7.0\CPG-14.deps.json
+C:\Users\Munszu\RiderProjects\CPG-14\CPG-14\bin\Debug\net7.0\CPG-14.runtimeconfig.json
+C:\Users\Munszu\RiderProjects\CPG-14\CPG-14\bin\Debug\net7.0\CPG-14.dll
+C:\Users\Munszu\RiderProjects\CPG-14\CPG-14\bin\Debug\net7.0\CPG-14.pdb
+C:\Users\Munszu\RiderProjects\CPG-14\CPG-14\obj\Debug\net7.0\CPG-14.csproj.AssemblyReference.cache
+C:\Users\Munszu\RiderProjects\CPG-14\CPG-14\obj\Debug\net7.0\CPG-14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Munszu\RiderProjects\CPG-14\CPG-14\obj\Debug\net7.0\CPG-14.AssemblyInfoInputs.cache
+C:\Users\Munszu\RiderProjects\CPG-14\CPG-14\obj\Debug\net7.0\CPG-14.AssemblyInfo.cs
+C:\Users\Munszu\RiderProjects\CPG-14\CPG-14\obj\Debug\net7.0\CPG-14.csproj.CoreCompileInputs.cache
+C:\Users\Munszu\RiderProjects\CPG-14\CPG-14\obj\Debug\net7.0\CPG-14.dll
+C:\Users\Munszu\RiderProjects\CPG-14\CPG-14\obj\Debug\net7.0\refint\CPG-14.dll
+C:\Users\Munszu\RiderProjects\CPG-14\CPG-14\obj\Debug\net7.0\CPG-14.pdb
+C:\Users\Munszu\RiderProjects\CPG-14\CPG-14\obj\Debug\net7.0\CPG-14.genruntimeconfig.cache
+C:\Users\Munszu\RiderProjects\CPG-14\CPG-14\obj\Debug\net7.0\ref\CPG-14.dll

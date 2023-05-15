@@ -1,0 +1,15 @@
+Y:\university\projects\C#\RiderProjects\CPG52-The_Final_Battle\CPG52-Core_Game\bin\Debug\net7.0\CPG52-Core_Game.exe
+Y:\university\projects\C#\RiderProjects\CPG52-The_Final_Battle\CPG52-Core_Game\bin\Debug\net7.0\CPG52-Core_Game.deps.json
+Y:\university\projects\C#\RiderProjects\CPG52-The_Final_Battle\CPG52-Core_Game\bin\Debug\net7.0\CPG52-Core_Game.runtimeconfig.json
+Y:\university\projects\C#\RiderProjects\CPG52-The_Final_Battle\CPG52-Core_Game\bin\Debug\net7.0\CPG52-Core_Game.dll
+Y:\university\projects\C#\RiderProjects\CPG52-The_Final_Battle\CPG52-Core_Game\bin\Debug\net7.0\CPG52-Core_Game.pdb
+Y:\university\projects\C#\RiderProjects\CPG52-The_Final_Battle\CPG52-Core_Game\obj\Debug\net7.0\CPG52-Core_Game.csproj.AssemblyReference.cache
+Y:\university\projects\C#\RiderProjects\CPG52-The_Final_Battle\CPG52-Core_Game\obj\Debug\net7.0\CPG52-Core_Game.GeneratedMSBuildEditorConfig.editorconfig
+Y:\university\projects\C#\RiderProjects\CPG52-The_Final_Battle\CPG52-Core_Game\obj\Debug\net7.0\CPG52-Core_Game.AssemblyInfoInputs.cache
+Y:\university\projects\C#\RiderProjects\CPG52-The_Final_Battle\CPG52-Core_Game\obj\Debug\net7.0\CPG52-Core_Game.AssemblyInfo.cs
+Y:\university\projects\C#\RiderProjects\CPG52-The_Final_Battle\CPG52-Core_Game\obj\Debug\net7.0\CPG52-Core_Game.csproj.CoreCompileInputs.cache
+Y:\university\projects\C#\RiderProjects\CPG52-The_Final_Battle\CPG52-Core_Game\obj\Debug\net7.0\CPG52-Core_Game.dll
+Y:\university\projects\C#\RiderProjects\CPG52-The_Final_Battle\CPG52-Core_Game\obj\Debug\net7.0\refint\CPG52-Core_Game.dll
+Y:\university\projects\C#\RiderProjects\CPG52-The_Final_Battle\CPG52-Core_Game\obj\Debug\net7.0\CPG52-Core_Game.pdb
+Y:\university\projects\C#\RiderProjects\CPG52-The_Final_Battle\CPG52-Core_Game\obj\Debug\net7.0\CPG52-Core_Game.genruntimeconfig.cache
+Y:\university\projects\C#\RiderProjects\CPG52-The_Final_Battle\CPG52-Core_Game\obj\Debug\net7.0\ref\CPG52-Core_Game.dll

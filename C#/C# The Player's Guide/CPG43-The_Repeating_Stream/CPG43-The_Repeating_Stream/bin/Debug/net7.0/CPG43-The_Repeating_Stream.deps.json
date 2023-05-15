@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CPG43-The_Repeating_Stream/1.0.0": {
+        "runtime": {
+          "CPG43-The_Repeating_Stream.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CPG43-The_Repeating_Stream/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

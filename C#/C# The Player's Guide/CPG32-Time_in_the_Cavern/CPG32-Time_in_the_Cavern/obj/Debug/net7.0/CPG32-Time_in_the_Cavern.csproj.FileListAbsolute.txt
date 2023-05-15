@@ -1,0 +1,15 @@
+C:\Users\pwb22187\RiderProjects\CPG32-Time_in_the_Cavern\CPG32-Time_in_the_Cavern\bin\Debug\net7.0\CPG32-Time_in_the_Cavern.exe
+C:\Users\pwb22187\RiderProjects\CPG32-Time_in_the_Cavern\CPG32-Time_in_the_Cavern\bin\Debug\net7.0\CPG32-Time_in_the_Cavern.deps.json
+C:\Users\pwb22187\RiderProjects\CPG32-Time_in_the_Cavern\CPG32-Time_in_the_Cavern\bin\Debug\net7.0\CPG32-Time_in_the_Cavern.runtimeconfig.json
+C:\Users\pwb22187\RiderProjects\CPG32-Time_in_the_Cavern\CPG32-Time_in_the_Cavern\bin\Debug\net7.0\CPG32-Time_in_the_Cavern.dll
+C:\Users\pwb22187\RiderProjects\CPG32-Time_in_the_Cavern\CPG32-Time_in_the_Cavern\bin\Debug\net7.0\CPG32-Time_in_the_Cavern.pdb
+C:\Users\pwb22187\RiderProjects\CPG32-Time_in_the_Cavern\CPG32-Time_in_the_Cavern\obj\Debug\net7.0\CPG32-Time_in_the_Cavern.csproj.AssemblyReference.cache
+C:\Users\pwb22187\RiderProjects\CPG32-Time_in_the_Cavern\CPG32-Time_in_the_Cavern\obj\Debug\net7.0\CPG32-Time_in_the_Cavern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pwb22187\RiderProjects\CPG32-Time_in_the_Cavern\CPG32-Time_in_the_Cavern\obj\Debug\net7.0\CPG32-Time_in_the_Cavern.AssemblyInfoInputs.cache
+C:\Users\pwb22187\RiderProjects\CPG32-Time_in_the_Cavern\CPG32-Time_in_the_Cavern\obj\Debug\net7.0\CPG32-Time_in_the_Cavern.AssemblyInfo.cs
+C:\Users\pwb22187\RiderProjects\CPG32-Time_in_the_Cavern\CPG32-Time_in_the_Cavern\obj\Debug\net7.0\CPG32-Time_in_the_Cavern.csproj.CoreCompileInputs.cache
+C:\Users\pwb22187\RiderProjects\CPG32-Time_in_the_Cavern\CPG32-Time_in_the_Cavern\obj\Debug\net7.0\CPG32-Time_in_the_Cavern.dll
+C:\Users\pwb22187\RiderProjects\CPG32-Time_in_the_Cavern\CPG32-Time_in_the_Cavern\obj\Debug\net7.0\refint\CPG32-Time_in_the_Cavern.dll
+C:\Users\pwb22187\RiderProjects\CPG32-Time_in_the_Cavern\CPG32-Time_in_the_Cavern\obj\Debug\net7.0\CPG32-Time_in_the_Cavern.pdb
+C:\Users\pwb22187\RiderProjects\CPG32-Time_in_the_Cavern\CPG32-Time_in_the_Cavern\obj\Debug\net7.0\CPG32-Time_in_the_Cavern.genruntimeconfig.cache
+C:\Users\pwb22187\RiderProjects\CPG32-Time_in_the_Cavern\CPG32-Time_in_the_Cavern\obj\Debug\net7.0\ref\CPG32-Time_in_the_Cavern.dll

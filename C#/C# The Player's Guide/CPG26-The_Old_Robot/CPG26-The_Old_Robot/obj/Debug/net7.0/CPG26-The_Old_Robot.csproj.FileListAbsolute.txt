@@ -1,0 +1,15 @@
+Y:\university\projects\C#\RiderProjects\CPG26-The_Old_Robot\CPG26-The_Old_Robot\bin\Debug\net7.0\CPG26-The_Old_Robot.exe
+Y:\university\projects\C#\RiderProjects\CPG26-The_Old_Robot\CPG26-The_Old_Robot\bin\Debug\net7.0\CPG26-The_Old_Robot.deps.json
+Y:\university\projects\C#\RiderProjects\CPG26-The_Old_Robot\CPG26-The_Old_Robot\bin\Debug\net7.0\CPG26-The_Old_Robot.runtimeconfig.json
+Y:\university\projects\C#\RiderProjects\CPG26-The_Old_Robot\CPG26-The_Old_Robot\bin\Debug\net7.0\CPG26-The_Old_Robot.dll
+Y:\university\projects\C#\RiderProjects\CPG26-The_Old_Robot\CPG26-The_Old_Robot\bin\Debug\net7.0\CPG26-The_Old_Robot.pdb
+Y:\university\projects\C#\RiderProjects\CPG26-The_Old_Robot\CPG26-The_Old_Robot\obj\Debug\net7.0\CPG26-The_Old_Robot.csproj.AssemblyReference.cache
+Y:\university\projects\C#\RiderProjects\CPG26-The_Old_Robot\CPG26-The_Old_Robot\obj\Debug\net7.0\CPG26-The_Old_Robot.GeneratedMSBuildEditorConfig.editorconfig
+Y:\university\projects\C#\RiderProjects\CPG26-The_Old_Robot\CPG26-The_Old_Robot\obj\Debug\net7.0\CPG26-The_Old_Robot.AssemblyInfoInputs.cache
+Y:\university\projects\C#\RiderProjects\CPG26-The_Old_Robot\CPG26-The_Old_Robot\obj\Debug\net7.0\CPG26-The_Old_Robot.AssemblyInfo.cs
+Y:\university\projects\C#\RiderProjects\CPG26-The_Old_Robot\CPG26-The_Old_Robot\obj\Debug\net7.0\CPG26-The_Old_Robot.csproj.CoreCompileInputs.cache
+Y:\university\projects\C#\RiderProjects\CPG26-The_Old_Robot\CPG26-The_Old_Robot\obj\Debug\net7.0\CPG26-The_Old_Robot.dll
+Y:\university\projects\C#\RiderProjects\CPG26-The_Old_Robot\CPG26-The_Old_Robot\obj\Debug\net7.0\refint\CPG26-The_Old_Robot.dll
+Y:\university\projects\C#\RiderProjects\CPG26-The_Old_Robot\CPG26-The_Old_Robot\obj\Debug\net7.0\CPG26-The_Old_Robot.pdb
+Y:\university\projects\C#\RiderProjects\CPG26-The_Old_Robot\CPG26-The_Old_Robot\obj\Debug\net7.0\CPG26-The_Old_Robot.genruntimeconfig.cache
+Y:\university\projects\C#\RiderProjects\CPG26-The_Old_Robot\CPG26-The_Old_Robot\obj\Debug\net7.0\ref\CPG26-The_Old_Robot.dll

@@ -1,0 +1,30 @@
+Y:\university\projects\C#\RiderProjects\CPG31-The_Fountain_of_Objects\CPG31-The_Fountain_of_Objects\bin\Debug\net7.0\CPG31-The_Fountain_of_Objects.exe
+Y:\university\projects\C#\RiderProjects\CPG31-The_Fountain_of_Objects\CPG31-The_Fountain_of_Objects\bin\Debug\net7.0\CPG31-The_Fountain_of_Objects.deps.json
+Y:\university\projects\C#\RiderProjects\CPG31-The_Fountain_of_Objects\CPG31-The_Fountain_of_Objects\bin\Debug\net7.0\CPG31-The_Fountain_of_Objects.runtimeconfig.json
+Y:\university\projects\C#\RiderProjects\CPG31-The_Fountain_of_Objects\CPG31-The_Fountain_of_Objects\bin\Debug\net7.0\CPG31-The_Fountain_of_Objects.dll
+Y:\university\projects\C#\RiderProjects\CPG31-The_Fountain_of_Objects\CPG31-The_Fountain_of_Objects\bin\Debug\net7.0\CPG31-The_Fountain_of_Objects.pdb
+Y:\university\projects\C#\RiderProjects\CPG31-The_Fountain_of_Objects\CPG31-The_Fountain_of_Objects\obj\Debug\net7.0\CPG31-The_Fountain_of_Objects.csproj.AssemblyReference.cache
+Y:\university\projects\C#\RiderProjects\CPG31-The_Fountain_of_Objects\CPG31-The_Fountain_of_Objects\obj\Debug\net7.0\CPG31-The_Fountain_of_Objects.GeneratedMSBuildEditorConfig.editorconfig
+Y:\university\projects\C#\RiderProjects\CPG31-The_Fountain_of_Objects\CPG31-The_Fountain_of_Objects\obj\Debug\net7.0\CPG31-The_Fountain_of_Objects.AssemblyInfoInputs.cache
+Y:\university\projects\C#\RiderProjects\CPG31-The_Fountain_of_Objects\CPG31-The_Fountain_of_Objects\obj\Debug\net7.0\CPG31-The_Fountain_of_Objects.AssemblyInfo.cs
+Y:\university\projects\C#\RiderProjects\CPG31-The_Fountain_of_Objects\CPG31-The_Fountain_of_Objects\obj\Debug\net7.0\CPG31-The_Fountain_of_Objects.csproj.CoreCompileInputs.cache
+Y:\university\projects\C#\RiderProjects\CPG31-The_Fountain_of_Objects\CPG31-The_Fountain_of_Objects\obj\Debug\net7.0\CPG31-The_Fountain_of_Objects.dll
+Y:\university\projects\C#\RiderProjects\CPG31-The_Fountain_of_Objects\CPG31-The_Fountain_of_Objects\obj\Debug\net7.0\refint\CPG31-The_Fountain_of_Objects.dll
+Y:\university\projects\C#\RiderProjects\CPG31-The_Fountain_of_Objects\CPG31-The_Fountain_of_Objects\obj\Debug\net7.0\CPG31-The_Fountain_of_Objects.pdb
+Y:\university\projects\C#\RiderProjects\CPG31-The_Fountain_of_Objects\CPG31-The_Fountain_of_Objects\obj\Debug\net7.0\CPG31-The_Fountain_of_Objects.genruntimeconfig.cache
+Y:\university\projects\C#\RiderProjects\CPG31-The_Fountain_of_Objects\CPG31-The_Fountain_of_Objects\obj\Debug\net7.0\ref\CPG31-The_Fountain_of_Objects.dll
+C:\Users\pwb22187\OneDrive - University of Strathclyde\Desktop\CPG31-The_Fountain_of_Objects\CPG31-The_Fountain_of_Objects\obj\Debug\net7.0\CPG31-The_Fountain_of_Objects.csproj.AssemblyReference.cache
+C:\Users\pwb22187\OneDrive - University of Strathclyde\Desktop\CPG31-The_Fountain_of_Objects\CPG31-The_Fountain_of_Objects\obj\Debug\net7.0\CPG31-The_Fountain_of_Objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pwb22187\OneDrive - University of Strathclyde\Desktop\CPG31-The_Fountain_of_Objects\CPG31-The_Fountain_of_Objects\obj\Debug\net7.0\CPG31-The_Fountain_of_Objects.AssemblyInfoInputs.cache
+C:\Users\pwb22187\OneDrive - University of Strathclyde\Desktop\CPG31-The_Fountain_of_Objects\CPG31-The_Fountain_of_Objects\obj\Debug\net7.0\CPG31-The_Fountain_of_Objects.AssemblyInfo.cs
+C:\Users\pwb22187\OneDrive - University of Strathclyde\Desktop\CPG31-The_Fountain_of_Objects\CPG31-The_Fountain_of_Objects\obj\Debug\net7.0\CPG31-The_Fountain_of_Objects.csproj.CoreCompileInputs.cache
+C:\Users\pwb22187\OneDrive - University of Strathclyde\Desktop\CPG31-The_Fountain_of_Objects\CPG31-The_Fountain_of_Objects\obj\Debug\net7.0\CPG31-The_Fountain_of_Objects.dll
+C:\Users\pwb22187\OneDrive - University of Strathclyde\Desktop\CPG31-The_Fountain_of_Objects\CPG31-The_Fountain_of_Objects\obj\Debug\net7.0\refint\CPG31-The_Fountain_of_Objects.dll
+C:\Users\pwb22187\OneDrive - University of Strathclyde\Desktop\CPG31-The_Fountain_of_Objects\CPG31-The_Fountain_of_Objects\obj\Debug\net7.0\CPG31-The_Fountain_of_Objects.pdb
+C:\Users\pwb22187\OneDrive - University of Strathclyde\Desktop\CPG31-The_Fountain_of_Objects\CPG31-The_Fountain_of_Objects\bin\Debug\net7.0\CPG31-The_Fountain_of_Objects.exe
+C:\Users\pwb22187\OneDrive - University of Strathclyde\Desktop\CPG31-The_Fountain_of_Objects\CPG31-The_Fountain_of_Objects\bin\Debug\net7.0\CPG31-The_Fountain_of_Objects.deps.json
+C:\Users\pwb22187\OneDrive - University of Strathclyde\Desktop\CPG31-The_Fountain_of_Objects\CPG31-The_Fountain_of_Objects\bin\Debug\net7.0\CPG31-The_Fountain_of_Objects.runtimeconfig.json
+C:\Users\pwb22187\OneDrive - University of Strathclyde\Desktop\CPG31-The_Fountain_of_Objects\CPG31-The_Fountain_of_Objects\bin\Debug\net7.0\CPG31-The_Fountain_of_Objects.dll
+C:\Users\pwb22187\OneDrive - University of Strathclyde\Desktop\CPG31-The_Fountain_of_Objects\CPG31-The_Fountain_of_Objects\bin\Debug\net7.0\CPG31-The_Fountain_of_Objects.pdb
+C:\Users\pwb22187\OneDrive - University of Strathclyde\Desktop\CPG31-The_Fountain_of_Objects\CPG31-The_Fountain_of_Objects\obj\Debug\net7.0\CPG31-The_Fountain_of_Objects.genruntimeconfig.cache
+C:\Users\pwb22187\OneDrive - University of Strathclyde\Desktop\CPG31-The_Fountain_of_Objects\CPG31-The_Fountain_of_Objects\obj\Debug\net7.0\ref\CPG31-The_Fountain_of_Objects.dll

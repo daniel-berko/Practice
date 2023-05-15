@@ -1,0 +1,15 @@
+C:\Users\Munszu\RiderProjects\CPG24-ThePoint-v3\CPG24-ThePoint-v3\bin\Debug\net7.0\CPG24-ThePoint-v3.exe
+C:\Users\Munszu\RiderProjects\CPG24-ThePoint-v3\CPG24-ThePoint-v3\bin\Debug\net7.0\CPG24-ThePoint-v3.deps.json
+C:\Users\Munszu\RiderProjects\CPG24-ThePoint-v3\CPG24-ThePoint-v3\bin\Debug\net7.0\CPG24-ThePoint-v3.runtimeconfig.json
+C:\Users\Munszu\RiderProjects\CPG24-ThePoint-v3\CPG24-ThePoint-v3\bin\Debug\net7.0\CPG24-ThePoint-v3.dll
+C:\Users\Munszu\RiderProjects\CPG24-ThePoint-v3\CPG24-ThePoint-v3\bin\Debug\net7.0\CPG24-ThePoint-v3.pdb
+C:\Users\Munszu\RiderProjects\CPG24-ThePoint-v3\CPG24-ThePoint-v3\obj\Debug\net7.0\CPG24-ThePoint-v3.csproj.AssemblyReference.cache
+C:\Users\Munszu\RiderProjects\CPG24-ThePoint-v3\CPG24-ThePoint-v3\obj\Debug\net7.0\CPG24-ThePoint-v3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Munszu\RiderProjects\CPG24-ThePoint-v3\CPG24-ThePoint-v3\obj\Debug\net7.0\CPG24-ThePoint-v3.AssemblyInfoInputs.cache
+C:\Users\Munszu\RiderProjects\CPG24-ThePoint-v3\CPG24-ThePoint-v3\obj\Debug\net7.0\CPG24-ThePoint-v3.AssemblyInfo.cs
+C:\Users\Munszu\RiderProjects\CPG24-ThePoint-v3\CPG24-ThePoint-v3\obj\Debug\net7.0\CPG24-ThePoint-v3.csproj.CoreCompileInputs.cache
+C:\Users\Munszu\RiderProjects\CPG24-ThePoint-v3\CPG24-ThePoint-v3\obj\Debug\net7.0\CPG24-ThePoint-v3.dll
+C:\Users\Munszu\RiderProjects\CPG24-ThePoint-v3\CPG24-ThePoint-v3\obj\Debug\net7.0\refint\CPG24-ThePoint-v3.dll
+C:\Users\Munszu\RiderProjects\CPG24-ThePoint-v3\CPG24-ThePoint-v3\obj\Debug\net7.0\CPG24-ThePoint-v3.pdb
+C:\Users\Munszu\RiderProjects\CPG24-ThePoint-v3\CPG24-ThePoint-v3\obj\Debug\net7.0\CPG24-ThePoint-v3.genruntimeconfig.cache
+C:\Users\Munszu\RiderProjects\CPG24-ThePoint-v3\CPG24-ThePoint-v3\obj\Debug\net7.0\ref\CPG24-ThePoint-v3.dll

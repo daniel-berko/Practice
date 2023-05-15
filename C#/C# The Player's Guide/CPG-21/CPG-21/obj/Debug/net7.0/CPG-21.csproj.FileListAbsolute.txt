@@ -1,0 +1,15 @@
+Y:\university\projects\C#\RiderProjects\CPG-21\CPG-21\bin\Debug\net7.0\CPG-21.exe
+Y:\university\projects\C#\RiderProjects\CPG-21\CPG-21\bin\Debug\net7.0\CPG-21.deps.json
+Y:\university\projects\C#\RiderProjects\CPG-21\CPG-21\bin\Debug\net7.0\CPG-21.runtimeconfig.json
+Y:\university\projects\C#\RiderProjects\CPG-21\CPG-21\bin\Debug\net7.0\CPG-21.dll
+Y:\university\projects\C#\RiderProjects\CPG-21\CPG-21\bin\Debug\net7.0\CPG-21.pdb
+Y:\university\projects\C#\RiderProjects\CPG-21\CPG-21\obj\Debug\net7.0\CPG-21.csproj.AssemblyReference.cache
+Y:\university\projects\C#\RiderProjects\CPG-21\CPG-21\obj\Debug\net7.0\CPG-21.GeneratedMSBuildEditorConfig.editorconfig
+Y:\university\projects\C#\RiderProjects\CPG-21\CPG-21\obj\Debug\net7.0\CPG-21.AssemblyInfoInputs.cache
+Y:\university\projects\C#\RiderProjects\CPG-21\CPG-21\obj\Debug\net7.0\CPG-21.AssemblyInfo.cs
+Y:\university\projects\C#\RiderProjects\CPG-21\CPG-21\obj\Debug\net7.0\CPG-21.csproj.CoreCompileInputs.cache
+Y:\university\projects\C#\RiderProjects\CPG-21\CPG-21\obj\Debug\net7.0\CPG-21.dll
+Y:\university\projects\C#\RiderProjects\CPG-21\CPG-21\obj\Debug\net7.0\refint\CPG-21.dll
+Y:\university\projects\C#\RiderProjects\CPG-21\CPG-21\obj\Debug\net7.0\CPG-21.pdb
+Y:\university\projects\C#\RiderProjects\CPG-21\CPG-21\obj\Debug\net7.0\CPG-21.genruntimeconfig.cache
+Y:\university\projects\C#\RiderProjects\CPG-21\CPG-21\obj\Debug\net7.0\ref\CPG-21.dll

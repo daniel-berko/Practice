@@ -1,0 +1,15 @@
+Y:\university\projects\C#\RiderProjects\CPG34-Safer_Number_Crunching\CPG34-Safer_Number_Crunching\bin\Debug\net7.0\CPG34-Safer_Number_Crunching.exe
+Y:\university\projects\C#\RiderProjects\CPG34-Safer_Number_Crunching\CPG34-Safer_Number_Crunching\bin\Debug\net7.0\CPG34-Safer_Number_Crunching.deps.json
+Y:\university\projects\C#\RiderProjects\CPG34-Safer_Number_Crunching\CPG34-Safer_Number_Crunching\bin\Debug\net7.0\CPG34-Safer_Number_Crunching.runtimeconfig.json
+Y:\university\projects\C#\RiderProjects\CPG34-Safer_Number_Crunching\CPG34-Safer_Number_Crunching\bin\Debug\net7.0\CPG34-Safer_Number_Crunching.dll
+Y:\university\projects\C#\RiderProjects\CPG34-Safer_Number_Crunching\CPG34-Safer_Number_Crunching\bin\Debug\net7.0\CPG34-Safer_Number_Crunching.pdb
+Y:\university\projects\C#\RiderProjects\CPG34-Safer_Number_Crunching\CPG34-Safer_Number_Crunching\obj\Debug\net7.0\CPG34-Safer_Number_Crunching.csproj.AssemblyReference.cache
+Y:\university\projects\C#\RiderProjects\CPG34-Safer_Number_Crunching\CPG34-Safer_Number_Crunching\obj\Debug\net7.0\CPG34-Safer_Number_Crunching.GeneratedMSBuildEditorConfig.editorconfig
+Y:\university\projects\C#\RiderProjects\CPG34-Safer_Number_Crunching\CPG34-Safer_Number_Crunching\obj\Debug\net7.0\CPG34-Safer_Number_Crunching.AssemblyInfoInputs.cache
+Y:\university\projects\C#\RiderProjects\CPG34-Safer_Number_Crunching\CPG34-Safer_Number_Crunching\obj\Debug\net7.0\CPG34-Safer_Number_Crunching.AssemblyInfo.cs
+Y:\university\projects\C#\RiderProjects\CPG34-Safer_Number_Crunching\CPG34-Safer_Number_Crunching\obj\Debug\net7.0\CPG34-Safer_Number_Crunching.csproj.CoreCompileInputs.cache
+Y:\university\projects\C#\RiderProjects\CPG34-Safer_Number_Crunching\CPG34-Safer_Number_Crunching\obj\Debug\net7.0\CPG34-Safer_Number_Crunching.dll
+Y:\university\projects\C#\RiderProjects\CPG34-Safer_Number_Crunching\CPG34-Safer_Number_Crunching\obj\Debug\net7.0\refint\CPG34-Safer_Number_Crunching.dll
+Y:\university\projects\C#\RiderProjects\CPG34-Safer_Number_Crunching\CPG34-Safer_Number_Crunching\obj\Debug\net7.0\CPG34-Safer_Number_Crunching.pdb
+Y:\university\projects\C#\RiderProjects\CPG34-Safer_Number_Crunching\CPG34-Safer_Number_Crunching\obj\Debug\net7.0\CPG34-Safer_Number_Crunching.genruntimeconfig.cache
+Y:\university\projects\C#\RiderProjects\CPG34-Safer_Number_Crunching\CPG34-Safer_Number_Crunching\obj\Debug\net7.0\ref\CPG34-Safer_Number_Crunching.dll

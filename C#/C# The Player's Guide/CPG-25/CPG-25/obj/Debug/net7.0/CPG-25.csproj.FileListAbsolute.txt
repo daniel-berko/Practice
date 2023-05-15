@@ -1,0 +1,15 @@
+Y:\university\projects\C#\RiderProjects\CPG-25\CPG-25\bin\Debug\net7.0\CPG-25.exe
+Y:\university\projects\C#\RiderProjects\CPG-25\CPG-25\bin\Debug\net7.0\CPG-25.deps.json
+Y:\university\projects\C#\RiderProjects\CPG-25\CPG-25\bin\Debug\net7.0\CPG-25.runtimeconfig.json
+Y:\university\projects\C#\RiderProjects\CPG-25\CPG-25\bin\Debug\net7.0\CPG-25.dll
+Y:\university\projects\C#\RiderProjects\CPG-25\CPG-25\bin\Debug\net7.0\CPG-25.pdb
+Y:\university\projects\C#\RiderProjects\CPG-25\CPG-25\obj\Debug\net7.0\CPG-25.csproj.AssemblyReference.cache
+Y:\university\projects\C#\RiderProjects\CPG-25\CPG-25\obj\Debug\net7.0\CPG-25.GeneratedMSBuildEditorConfig.editorconfig
+Y:\university\projects\C#\RiderProjects\CPG-25\CPG-25\obj\Debug\net7.0\CPG-25.AssemblyInfoInputs.cache
+Y:\university\projects\C#\RiderProjects\CPG-25\CPG-25\obj\Debug\net7.0\CPG-25.AssemblyInfo.cs
+Y:\university\projects\C#\RiderProjects\CPG-25\CPG-25\obj\Debug\net7.0\CPG-25.csproj.CoreCompileInputs.cache
+Y:\university\projects\C#\RiderProjects\CPG-25\CPG-25\obj\Debug\net7.0\CPG-25.dll
+Y:\university\projects\C#\RiderProjects\CPG-25\CPG-25\obj\Debug\net7.0\refint\CPG-25.dll
+Y:\university\projects\C#\RiderProjects\CPG-25\CPG-25\obj\Debug\net7.0\CPG-25.pdb
+Y:\university\projects\C#\RiderProjects\CPG-25\CPG-25\obj\Debug\net7.0\CPG-25.genruntimeconfig.cache
+Y:\university\projects\C#\RiderProjects\CPG-25\CPG-25\obj\Debug\net7.0\ref\CPG-25.dll

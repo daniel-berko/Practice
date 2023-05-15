@@ -1,0 +1,15 @@
+Y:\university\projects\C#\RiderProjects\CPG37-Charberry_Trees\CPG37-Charberry_Trees\bin\Debug\net7.0\CPG37-Charberry_Trees.exe
+Y:\university\projects\C#\RiderProjects\CPG37-Charberry_Trees\CPG37-Charberry_Trees\bin\Debug\net7.0\CPG37-Charberry_Trees.deps.json
+Y:\university\projects\C#\RiderProjects\CPG37-Charberry_Trees\CPG37-Charberry_Trees\bin\Debug\net7.0\CPG37-Charberry_Trees.runtimeconfig.json
+Y:\university\projects\C#\RiderProjects\CPG37-Charberry_Trees\CPG37-Charberry_Trees\bin\Debug\net7.0\CPG37-Charberry_Trees.dll
+Y:\university\projects\C#\RiderProjects\CPG37-Charberry_Trees\CPG37-Charberry_Trees\bin\Debug\net7.0\CPG37-Charberry_Trees.pdb
+Y:\university\projects\C#\RiderProjects\CPG37-Charberry_Trees\CPG37-Charberry_Trees\obj\Debug\net7.0\CPG37-Charberry_Trees.csproj.AssemblyReference.cache
+Y:\university\projects\C#\RiderProjects\CPG37-Charberry_Trees\CPG37-Charberry_Trees\obj\Debug\net7.0\CPG37-Charberry_Trees.GeneratedMSBuildEditorConfig.editorconfig
+Y:\university\projects\C#\RiderProjects\CPG37-Charberry_Trees\CPG37-Charberry_Trees\obj\Debug\net7.0\CPG37-Charberry_Trees.AssemblyInfoInputs.cache
+Y:\university\projects\C#\RiderProjects\CPG37-Charberry_Trees\CPG37-Charberry_Trees\obj\Debug\net7.0\CPG37-Charberry_Trees.AssemblyInfo.cs
+Y:\university\projects\C#\RiderProjects\CPG37-Charberry_Trees\CPG37-Charberry_Trees\obj\Debug\net7.0\CPG37-Charberry_Trees.csproj.CoreCompileInputs.cache
+Y:\university\projects\C#\RiderProjects\CPG37-Charberry_Trees\CPG37-Charberry_Trees\obj\Debug\net7.0\CPG37-Charberry_Trees.dll
+Y:\university\projects\C#\RiderProjects\CPG37-Charberry_Trees\CPG37-Charberry_Trees\obj\Debug\net7.0\refint\CPG37-Charberry_Trees.dll
+Y:\university\projects\C#\RiderProjects\CPG37-Charberry_Trees\CPG37-Charberry_Trees\obj\Debug\net7.0\CPG37-Charberry_Trees.pdb
+Y:\university\projects\C#\RiderProjects\CPG37-Charberry_Trees\CPG37-Charberry_Trees\obj\Debug\net7.0\CPG37-Charberry_Trees.genruntimeconfig.cache
+Y:\university\projects\C#\RiderProjects\CPG37-Charberry_Trees\CPG37-Charberry_Trees\obj\Debug\net7.0\ref\CPG37-Charberry_Trees.dll
